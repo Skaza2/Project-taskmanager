@@ -34,5 +34,4 @@ Poznámky:
 
 Autor:
 ------
-Juraj Šaradín
-Skaza
+Juraj Šaradín - Skaza
