@@ -8,6 +8,7 @@ source $HOME/taskmanager/smazani_tasku.sh
 
 source $HOME/taskmanager/Uprava_task.sh
 
+clear
 tabulka
 moznosti_tabulky
 #prikaz while na zaklade vyberu volby provede seriu prikazu
