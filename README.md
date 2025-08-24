@@ -32,7 +32,8 @@ Použitie:
 Poznámky:
 ---------
 - Každá úloha je uložená ako samostatný .txt súbor.
-- Pre správne fungovanie taskmanagera je potrebne mať v zložke dat aspoň jeden task
+- Pre správne fungovanie taskmanagera je potrebne mať v zložke data aspoň jeden task
+- Nepoužívať diakritiku
 
 Autor:
 ------
