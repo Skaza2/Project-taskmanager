@@ -11,9 +11,9 @@ uložené v textových súboroch.
 Štruktúra adresárov:
 --------------------
 /taskmanager
- ├── Main.sh        -> hlavný spúšťací skript
- ├── data/          -> priečinok s uloženými úlohami (*.txt)
- └── install.sh     -> inštalačný skript
+Main.sh        -> hlavný spúšťací skript
+data/          -> priečinok s uloženými úlohami (*.txt)
+install.sh     -> inštalačný skript
 
 Použitie:
 ---------
